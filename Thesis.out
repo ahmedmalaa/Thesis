@@ -1,12 +1,12 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Machine Learning for Individualized Medicine}{chapter.1}% 2
-\BOOKMARK [2][-]{subsection.1.1.1}{Models for Cross-sectional Data}{section.1.1}% 3
-\BOOKMARK [2][-]{subsection.1.1.2}{Models for Longitudinal Data}{section.1.1}% 4
-\BOOKMARK [1][-]{section.1.2}{Outline of Contributions}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.1}{Machine Learning Modeling Pipelines}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Outline of the Dissertation}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Summary of Technical Contributions}{chapter.1}% 5
 \BOOKMARK [0][-]{chapter.2}{Estimating Treatment Effects from Observational Data}{}% 6
 \BOOKMARK [0][-]{chapter.3}{Symbolic Approaches to Prognostic Model Interpretability}{}% 7
 \BOOKMARK [0][-]{chapter.4}{Automated Prognostic Modeling}{}% 8
 \BOOKMARK [0][-]{chapter.5}{Deep Probabilistic Modeling of Longitudinal Data}{}% 9
 \BOOKMARK [0][-]{chapter.6}{Clinical Application}{}% 10
 \BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 11
-\BOOKMARK [0][-]{chapter*.9}{References}{}% 12
+\BOOKMARK [0][-]{chapter*.8}{References}{}% 12
