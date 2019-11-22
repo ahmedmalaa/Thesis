@@ -1,5 +1,12 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
 The style file: unsrt.bst
 Database file #1: thesisrefs.bib
+Repeated entry---line 1082 of file thesisrefs.bib
+ : @article{kattan2016american
+ :                            ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in kelloway2013longitudinal
-(There was 1 warning)
+Warning--there's a number but no volume in wager2017estimation
+Warning--empty journal in shalit2016estimating
+Warning--empty journal in hahn2017bayesian
+(There was 1 error message)
