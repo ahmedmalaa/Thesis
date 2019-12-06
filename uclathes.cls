@@ -1,4 +1,3 @@
-%
 % UCLA THESIS/DISSERTATION CLASS -- for LaTeX version 2e
 %	(C) Copyright 1995 by John Heidemann.
 % Taken from UCLA THESIS/DISSERTATION CLASS (version 0.94 BETA, 5/23/91)
